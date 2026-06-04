@@ -9,6 +9,9 @@ El archivo `datos/datos_subdere.parquet` contiene información de más de 30 mil
 - Programa de Revitalización de Barrios e Infraestructura Patrimonial Emblemática (PRBIPE)
 - Programa Nacional de Tenencia Responsable de Animales de Compañía (PTRAC)
 
+Los datos se pueden [descargar en formato Parquet aquí.](https://github.com/bastianolea/subdere_inversion_local/raw/main/datos/datos_subdere.parquet)
+
+
 ## Web scraping
 
 Los datos se obtienen usando web scraping para automatizar un navegador web que navega la página y presiona los botones de descarga. De esta manera se pueden obtener los datos de todas las regiones actualizadas al día con ejecutar un sólo script.
