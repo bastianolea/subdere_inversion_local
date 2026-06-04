@@ -1,5 +1,13 @@
 Descarga todas las planillas Excel con proyectos de inversión local desde el sitio [Portal Ciudadano de Inversión Local](http://inversionmunicipal.subdere.gov.cl/) de Subdere.
 
+## Datos
+El archivo `datos/datos_subdere.parquet` contiene información de más de 30 mil proyectos postulados y/o aprobados a través de www.subdereenlínea.gov.cl a contar del año 2014 a la fecha, para los siguientes programas de Subdere:
+
+- Programa Mejoramiento de Barrios (PMB)
+- Programa Mejoramiento Urbano y Equipamiento Comunal (PMU)
+- Fondo de Recuperación de Ciudades (FRC)
+- Programa de Revitalización de Barrios e Infraestructura Patrimonial Emblemática (PRBIPE)
+- Programa Nacional de Tenencia Responsable de Animales de Compañía (PTRAC)
 
 ## Web scraping
 
